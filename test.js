@@ -1,2 +1,10 @@
 console.log('hello world');
-onsole.log(123);
+console.log(123);
+console.log('hello world');
+console.log(123);
+console.log('hello world');
+console.log(123);
+console.log('hello world');
+console.log(123);
+console.log('hello world');
+console.log(123);
